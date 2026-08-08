@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChatKeeper</string>
+    <string name="deleted_messages">Deleted Messages</string>
+    <string name="status_saver">Status Saver</string>
+    <string name="enable_listener">Enable Notification Access</string>
+    <string name="pick_status_folder">Select WhatsApp Status Folder</string>
+    <string name="no_messages">No deleted messages captured yet.\n\nEnable Notification Access first.</string>
+    <string name="no_status">No status found.\n\n1. Open WhatsApp and view some statuses\n2. Come back and tap Select Folder\n3. Navigate to WhatsApp/.Statuses folder</string>
+    <string name="save">Save</string>
+    <string name="saved">Saved to gallery!</string>
+</resources>
